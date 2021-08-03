@@ -3,7 +3,7 @@
 set -ex
 
 
-FILES=(`ls *MIROC*.slurm`)
+FILES=(`ls *thetao*.slurm`)
 
 NF=${#FILES[*]}
 
