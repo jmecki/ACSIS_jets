@@ -8,6 +8,10 @@ __pycache__/
 
 # My Stuff
 slurm_files/
+*.png
+*.nc
+*.npz
+*.eps
 
 # Distribution / packaging
 .Python
